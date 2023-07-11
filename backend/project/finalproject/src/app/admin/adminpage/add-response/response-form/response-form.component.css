@@ -1,0 +1,15 @@
+.form{
+    padding: 20px;
+}
+.input{
+    width: 500px;
+}
+.form{
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%,-50%);
+}
+button{
+    margin-left: 200px;
+}

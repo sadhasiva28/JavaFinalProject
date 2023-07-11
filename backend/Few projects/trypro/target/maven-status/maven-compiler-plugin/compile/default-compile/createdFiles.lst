@@ -1,0 +1,7 @@
+com\dilli\entity\User.class
+META-INF\MANIFEST.MF
+META-INF\maven\com.dilli\trypro\pom.properties
+com\dilli\Application.class
+META-INF\maven\com.dilli\trypro\pom.xml
+com\dilli\controller\UserController.class
+com\dilli\repository\UserRepository.class

@@ -1,0 +1,197 @@
+basic program for the java is 
+public class Main{
+public static void main(String[] args){
+  System.out.println("hello world");
+}
+}
+numbers:-
+public class Main{
+public static void main(String[] args){
+System.out.print(2*8);
+}
+}
+basic programs:-
+1)public class Main{
+public static void main(String[] args){
+String name="heello";
+System.out.print(name);
+}
+}
+
+2) class number{
+public static void main(String[] args){
+int num1=234;
+System.out.print(num1);
+}
+}
+3)the above program we can solve in different way
+class number{
+public static void main(String[] args){
+int num1;
+num1=123;
+System.out.print(num1);
+}
+}
+4) 
+class multi{
+public static void main(String[] args){
+string s1="hello";
+string s2="Dilli";
+int n1=1234;
+System.out.print(s1+s2+"your random number is"+n1);
+}
+}
+5)
+class calcu{
+public static void main(String[] args){
+int a=233;
+int b=342;
+System.out.print(a+b);
+System.out.print(a*b);
+System.out.print(a/b);
+}
+}
+
+Datatypes:-
+Data Type	Size	Description
+byte	1 byte	Stores whole numbers from -128 to 127
+short	2 bytes	Stores whole numbers from -32,768 to 32,767
+int	4 bytes	Stores whole numbers from -2,147,483,648 to 2,147,483,647
+long	8 bytes	Stores whole numbers from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
+float	4 bytes	Stores fractional numbers. Sufficient for storing 6 to 7 decimal digits
+double	8 bytes	Stores fractional numbers. Sufficient for storing 15 decimal digits
+boolean	1 bit	Stores true or false values
+char	2 bytes	Stores a single character/letter or ASCII values
+
+In this datatypes before entering anything it may be the int,string,char,float,boolean etc..
+the datatype shoulld be involves in the step so that only the is works
+
+this program is about the char it will print position of the A,B,C:-
+class character{
+public static void main(String[] args){
+char myvar1=65, myvar2=66 , myvar3=67;
+System.out.print(myvar1);
+System.out.print(myvar2);
+System.out.print(myvar3);
+}
+}
+
+->this about the type casting the numbers
+class casting{
+public static void main(String[] args){
+int myInt =334;
+double myDouble=myInt;
+System.out.print(myInt);
+System.out.print(myDouble);
+}
+}
+->this one program we can change the program by equal to the operation
+here it is
+
+class casting1{
+public static void main(String[] args){
+double mynumber=23.23d;
+int myInt=int mynumber;
+System.out.print(mynumber);
+System.out.print(myInt);
+}
+}
+
+-->for finding the length of the given string
+
+class string{
+public static void main(String[] args){
+string text="hello this dilli from dedalus"
+System.out.print("the length of the text string: "+text.length());
+}
+}
+
+-->here the inbuilt functions
+1)to know the length is stringname.length()
+2)to convert the upper stringname.toUppercase()
+3)to convert the lower stringname.toLowercase()
+4)to print the selected word in the string we can use the inbuild function as string.indexOf("wordname")
+
+-->concat program
+class concating{
+public static void main(String[] args){
+String firstname="john";
+String lastname="Doe";
+System.out.println(firstName.concat(lastName));
+}
+}
+
+-->voter the person greater 
+class voter{
+public static void main(String[] args)
+int myage=25;
+int vo
+
+-->in the string we want to keep the quotions we need to use the 
+/"word/"
+for the it's -->this it/'s
+
+->here the max and min inbuild fuctions
+Math.max(5,10);
+Math.min(23,33);
+Math.sqrt(78);
+Math.abs(-8.89);
+Math.random();
+int randomNum=(int) (Math.random()*101);
+
+
+-->this is about the if else statement
+class Basic{
+public static void main(String[] args){
+int x=23;
+int y=24;
+if(x>y){
+System.out.print("the x is greater than the y");
+}
+else{
+System.out.print("the y is greater than the x");
+}
+}
+
+-->switch case 
+int m=4;
+switch(m){
+case 1:
+System.out.println("monday");
+break;
+case 2:
+System.out.println("Tuesday");
+}
+
+----------------------------------------------
+while loop
+int i=0;
+while(i<6){
+System.out.println(i);
+i++;
+}
+
+------------------------------------------
+This is about the class and object
+the programs is:
+public class Main{
+int x=5;
+public static void main(String[] args){
+Main out=new Main();
+System.out.println(out.x);
+}
+}
+
+This can be done in the attributes way
+public class Main{
+int x;
+public static void main(String[] args){
+Main out=new Main();
+out.x=23;
+System.out.println(out.x);
+}
+}
+
+
+
+

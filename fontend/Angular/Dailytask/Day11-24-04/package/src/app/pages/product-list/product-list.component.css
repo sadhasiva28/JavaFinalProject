@@ -1,0 +1,21 @@
+.head{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:20px;
+    position: absolute;
+    left: 40%;
+}
+.selected{
+    position: relative;
+    left: 50%;
+}
+.mat-slider {
+    position: absolute;
+    left: 20px;
+    width: 300px;
+  }
+  .bar{
+    position: relative;
+    left: 70%;
+  }
+
+  

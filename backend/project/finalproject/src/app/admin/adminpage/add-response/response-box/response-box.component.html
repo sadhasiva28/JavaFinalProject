@@ -1,0 +1,18 @@
+<mat-card class="card">
+    <div class="header">
+        <div class="name">{{suggestion.name}} says..</div>
+
+        <button mat-icon-button [matMenuTriggerFor]="menu" class="dot">
+            <mat-icon>more_vert</mat-icon>
+        </button>
+        <mat-menu #menu="matMenu">
+            <a mat-menu-item routerLink="/response-form/{{suggestion.id}}">
+                <mat-icon>add</mat-icon>
+                <span>Add response</span>
+            </a>
+        </mat-menu>    
+
+    </div><br>
+    <div class="body">{{suggestion.description}}</div><br>
+    <div class="footer">Created at: {{suggestion.created_at}}</div>
+</mat-card>

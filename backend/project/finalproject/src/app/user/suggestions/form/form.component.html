@@ -1,0 +1,38 @@
+<div mat-dialog-content>   
+    <p>
+        <mat-form-field appearance="outline">
+          <mat-label>Name</mat-label>
+          <input matInput [(ngModel)]="name">
+          <mat-icon matSuffix>badge</mat-icon>
+        </mat-form-field>
+    </p>
+
+    <p>
+        <mat-form-field appearance="outline">
+          <mat-label>Topic</mat-label>
+          <input matInput [(ngModel)]="topic">
+          <mat-icon matSuffix>topic</mat-icon>
+        </mat-form-field>
+    </p>
+
+    <p>
+        <mat-form-field appearance="outline">
+          <mat-label>Suggestion</mat-label>
+          <input matInput [(ngModel)]="suggestion">
+          <mat-icon matSuffix>assistant</mat-icon>
+        </mat-form-field>
+    </p>
+
+    <p>
+        <mat-form-field appearance="outline">
+          <mat-label>Date</mat-label>
+          <input matInput [matDatepicker]="picker"  [(ngModel)]="date">
+          <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+          <mat-datepicker #picker></mat-datepicker>
+        </mat-form-field>
+    </p>
+</div>
+
+<div mat-dialog-actions>
+  <button mat-raised-button color="primary" mat-dialog-close (click)="saveSuggestion()">Submit</button>
+</div>

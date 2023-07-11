@@ -1,0 +1,10 @@
+.category{
+    margin: 20px 10px 10px 89%;
+    width: 100px;
+}
+.search{
+    border-radius: 20px !important;
+}
+.fields{
+    float: left;
+}

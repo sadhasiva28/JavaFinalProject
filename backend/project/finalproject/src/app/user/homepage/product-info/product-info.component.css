@@ -1,0 +1,70 @@
+.image-card{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    left: 25%;
+    top: 85%;
+    transform: translate(-25%,-85%);
+}
+
+.image-card .picture{
+    height: 100%;
+    width: 100%;
+}
+
+.picture img{
+    height: 100%;
+    width: 100%;
+}
+.nutrition-card{
+    max-width: 450px;
+    max-height: 600px;
+    position: absolute;
+    margin-left: 58%;
+    margin-top: 38px;
+    border-style: ridge;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left:30%;
+    margin-top: 45px;
+    font-size: 25px;
+}
+.serving{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    font-size: 20px;
+    padding: 10px;
+    width: 100%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+    border-right: 1px solid #ddd;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+  }
+  
+  th:last-child, td:last-child {
+    border-right: none;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  td {
+    border-bottom: 2px solid #ddd;
+  }
+  
+  tr:last-child td {
+    border-bottom: none;
+  }
+  

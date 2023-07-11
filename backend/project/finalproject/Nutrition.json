@@ -1,0 +1,1451 @@
+{
+  "suggestions": [
+    {
+      "id": "1",
+      "name": "Vijay",
+      "title": "Add more vegan recipes",
+      "description": "Include more vegan recipes on the website to cater to people who follow a plant-based diet.",
+      "created_at": "12/04/2023",
+      "response": [
+        "Thank you for your valuable feedback. we will work on it and deliver soon"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Pragna",
+      "title": "Improve search functionality",
+      "description": "Make it easier to search for recipes and articles on the website.",
+      "created_at": "21/05/2022",
+      "response": []
+    },
+    {
+      "id": "3",
+      "name": "Dilli",
+      "title": "Add more information about vitamins and minerals",
+      "description": "Provide more detailed information about vitamins and minerals, including their benefits and food sources.",
+      "created_at": "02/04/2023",
+      "response": []
+    },
+    {
+      "id": 4,
+      "name": "hemanth",
+      "title": "Website UI",
+      "description": "The website laging some times and need extra features",
+      "created_at": "09/01/2023",
+      "response": []
+    },
+    {
+      "id": 5,
+      "name": "Prem kumar",
+      "title": "Diet plans",
+      "description": "add some more detailed diet plans and try to add some other new features",
+      "created_at": "04/02/2023",
+      "response": []
+    },
+    {
+      "id": 6,
+      "name": "raju kumar",
+      "title": "own diet",
+      "description": "the prediction of calories not much effective ...can you check it and provide update asap",
+      "created_at": "05/05/2023",
+      "response": []
+    },
+    {
+      "id": 7,
+      "name": "shashikanth",
+      "title": "performance",
+      "description": "everything was great! nothing to tell good job...",
+      "created_at": "05/05/2023",
+      "response": []
+    },
+    {
+      "id": 8,
+      "name": "Vinitha",
+      "title": "Website UI",
+      "description": "The website is very usefull and gained lot more knowledge",
+      "created_at": "06/05/2023",
+      "response": [
+        "Thank you for your positive response"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Pranaya",
+      "title": "products",
+      "description": "Its basically nice website.. keep improve it.",
+      "created_at": "07/05/2023",
+      "response": []
+    },
+    {
+      "id": 10,
+      "name": "P.Hemaprakash",
+      "title": "Products,divide",
+      "description": "there are many fruits to add.Divide the vittemen fruits acording to surch of there health issues.",
+      "created_at": "07/05/2023",
+      "response": []
+    }
+  ],
+  "Forum": [
+    {
+      "id": "1",
+      "question": "What are some healthy breakfast options that are quick and easy to make?",
+      "responses": [
+        "Greek yogurt with fresh fruit and granola is a quick and easy breakfast option that is high in protein and fiber.",
+        "Avocado toast on whole-grain bread with a poached egg is a nutrient-dense breakfast option that can be made in under 10 minutes.",
+        "A smoothie made with fruit, yogurt, and spinach or kale is a great way to pack in nutrients and is easy to make in a blender.",
+        "Oatmeal with nuts, seeds, and fresh fruit is a fiber-rich breakfast option that can be made in under 5 minutes in the microwave.",
+        "Hard-boiled eggs with whole-grain toast and sliced tomatoes is a protein-packed breakfast option that is easy to make ahead of time.",
+        "A breakfast burrito with scrambled eggs, black beans, and veggies wrapped in a whole-grain tortilla is a filling and nutritious option.",
+        "Peanut butter and banana on whole-grain toast is a simple and delicious breakfast option that is high in protein and fiber.",
+        "bread roasted and peanut"
+      ]
+    },
+    {
+      "id": "2",
+      "question": "What are some foods that can help boost my immune system?",
+      "responses": [
+        "Citrus fruits like oranges and grapefruits are high in vitamin C, which can help boost the immune system.",
+        "Yogurt with live and active cultures can help promote the growth of healthy bacteria in the gut, which supports a healthy immune system.",
+        "Green leafy vegetables like spinach and kale are high in vitamins A, C, and E, which are important for immune health.",
+        "Garlic has antimicrobial properties and can help support a healthy immune system.",
+        "Ginger has anti-inflammatory properties and may help boost the immune system.",
+        "Almonds are a good source of vitamin E, which helps support immune function.",
+        "Turmeric has anti-inflammatory and antioxidant properties and may help support the immune system.",
+        "Mushrooms, such as shiitake and maitake, contain beta-glucans, which can help stimulate the immune system.",
+        "meat, chicken,proteins,etc.......",
+        "Tryout meat eggs etc"
+      ]
+    },
+    {
+      "id": "3",
+      "question": "What are some healthy snack options for weight loss?",
+      "responses": [
+        "Fresh fruits and vegetables, such as apples, carrots, and cucumbers, are low in calories and high in fiber, making them great snack options for weight loss.",
+        "Plain Greek yogurt with berries and a drizzle of honey is a high-protein snack that can help keep you feeling full and satisfied.",
+        "Air-popped popcorn is a low-calorie snack that can be a good source of fiber, as long as it's not loaded with butter or other high-calorie toppings.",
+        "Hard-boiled eggs are a protein-packed snack that can help keep you feeling full between meals.",
+        "Nuts, such as almonds or walnuts, are high in healthy fats and protein, and can be a satisfying snack in moderation.",
+        "Hummus with veggies or whole-grain crackers is a nutritious and filling snack that can provide a good balance of protein, fiber, and healthy fats."
+      ]
+    },
+    {
+      "id": "4",
+      "question": "What are some tips for reducing sugar cravings?",
+      "responses": [
+        "Eating protein with each meal can help reduce sugar cravings by keeping you feeling full and satisfied.",
+        "Drinking plenty of water throughout the day can help reduce sugar cravings and keep you hydrated.",
+        "Getting enough sleep each night can help regulate hormones that control hunger and cravings, including sugar cravings.",
+        "Eating fiber-rich foods, such as fruits, vegetables, and whole grains, can help regulate blood sugar and reduce sugar cravings.",
+        "Replacing sugary snacks with healthier options, such as fresh fruit, nuts, or plain Greek yogurt with a drizzle of honey, can help reduce sugar cravings over time.",
+        "Practicing stress-reducing activities, such as yoga, meditation, or deep breathing, can help reduce stress-related sugar cravings."
+      ]
+    },
+    {
+      "id": "5",
+      "question": "What are some healthy alternatives to sugary drinks?",
+      "responses": [
+        "Water is the healthiest drink option and can help keep you hydrated without added sugar or calories.",
+        "Herbal tea, such as chamomile or peppermint, can be a comforting and hydrating drink option without added sugar.",
+        "Sparkling water with a splash of citrus juice or a few berries can provide a refreshing and low-calorie alternative to sugary sodas or sports drinks.",
+        "Coconut water is a natural source of electrolytes and can be a hydrating alternative to sugary sports drinks.",
+        "Low-fat milk or unsweetened plant-based milk, such as almond or soy milk, can be a nutrient-rich alternative to sugary flavored milks or coffee drinks.",
+        "Freshly squeezed juice, in moderation, can provide vitamins and minerals without added sugars or artificial sweeteners. Just be sure to stick to small portions and balance with other nutrient-rich foods."
+      ]
+    },
+    {
+      "id": "6",
+      "question": "What are some healthy lunch options that are easy to pack for work?",
+      "responses": [
+        "A salad with mixed greens, grilled chicken, and veggies is a healthy and filling option that can be easily packed in a container.",
+        "A turkey or hummus wrap with lots of veggies is a great way to get a variety of nutrients in one meal.",
+        "Sushi rolls with brown rice and lots of veggies or fish can be a delicious and nutritious lunch option.",
+        "A quinoa or brown rice bowl with lots of veggies and grilled chicken or tofu is a filling and nutrient-dense option that can be easily packed in a container.",
+        "A veggie and hummus or nut butter sandwich on whole-grain bread is a simple and healthy option that is easy to pack.",
+        "Roasted vegetables and quinoa salad with a side of fruit is a satisfying and nutrient-rich lunch option that can be made ahead of time.",
+        "Bean and vegetable soup with whole-grain crackers is a filling and satisfying lunch option that can be easily packed in a container.",
+        "Grilled fish or chicken with roasted sweet potatoes and steamed veggies is a balanced and healthy lunch option that can be prepared ahead of time."
+      ]
+    },
+    {
+      "id": "7",
+      "question": "What are some healthy snack options for weight loss?",
+      "responses": [
+        "Apple slices with almond butter is a great snack option that is high in fiber and healthy fats.",
+        "Raw veggies like carrots, celery, and bell peppers with hummus or a yogurt-based dip can be a filling and nutritious snack.",
+        "A handful of mixed nuts or seeds is a healthy snack option that is high in protein and healthy fats.",
+        "Plain Greek yogurt with berries and a sprinkle of cinnamon is a satisfying and nutritious snack option.",
+        "Air-popped popcorn seasoned with nutritional yeast and a sprinkle of sea salt is a low-calorie and satisfying snack option.",
+        "Hard-boiled eggs with a side of raw veggies or fruit is a protein-packed snack option that can help keep you full between meals.",
+        "A small serving of whole-grain crackers with low-fat cheese or hummus is a satisfying and balanced snack option.",
+        "Fresh fruit like an apple or pear with a handful of almonds or walnuts is a healthy snack option that provides both fiber and healthy fats."
+      ]
+    },
+    {
+      "id": "8",
+      "question": "How can I ensure I'm getting enough fiber in my diet?",
+      "responses": [
+        "One way to ensure you're getting enough fiber is to incorporate whole grains, fruits, and vegetables into your diet.",
+        "Another way is to snack on high-fiber foods like nuts, seeds, and dried fruit throughout the day.",
+        "You can also try adding fiber supplements like psyllium husk to your diet, but it's important to drink plenty of water with these supplements.",
+        "Make sure to read food labels and choose products that are high in fiber.",
+        "Finally, aim to drink plenty of water throughout the day to help keep your digestive system functioning properly."
+      ]
+    },
+    {
+      "id": "9",
+      "question": "How much water should you be drinking per day?",
+      "responses": [
+        "The amount of water a person needs per day can vary based on a variety of factors, such as age, gender, weight, and activity level. As a general guideline, the Institute of Medicine recommends that men aim for about 3.7 liters (125 ounces) of total water intake per day, while women aim for about 2.7 liters (91 ounces) per day. This includes water from all sources, including beverages and food. However, it's important to note that individual needs may vary and it's always best to consult with a healthcare professional for personalized recommendations.",
+        "A good way to gauge if you're getting enough water is to check the color of your urine - it should be pale yellow to clear. If it's darker, that could be a sign that you need to drink more water.",
+        "It's also important to remember that thirst is not always a reliable indicator of hydration status. By the time you feel thirsty, you may already be dehydrated. That's why it's important to drink water regularly throughout the day and not just when you feel thirsty."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Hello there, tell me a recipe without cooking",
+      "responses": []
+    },
+    {
+      "id": 11,
+      "question": "I need a food that contains enrich of nutrients",
+      "responses": [
+        "try to add many fruits and slice down into pieces and have a salad."
+      ]
+    },
+    {
+      "id": 12,
+      "question": "How much amount of food need to take in morning",
+      "responses": [
+        "You need to take atleast 200grams"
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Suggest me a food for dinner",
+      "responses": [
+        "chapathi with aloo gravy"
+      ]
+    },
+    {
+      "id": 14,
+      "question": "what are the some food items can increase concentration and focus on education?",
+      "responses": []
+    },
+    {
+      "id": 15,
+      "question": "suggest me a food for breakfast",
+      "responses": []
+    },
+    {
+      "id": 16,
+      "question": "What are the food items prefered for bresakfast",
+      "responses": []
+    }
+  ],
+  "Allproducts": [
+    {
+      "id": "1",
+      "type": "Dairy",
+      "name": "Butter",
+      "color": "yellow",
+      "vitamins": [
+        "A",
+        "D",
+        "E",
+        "K"
+      ],
+      "minerals": [
+        "calcium",
+        "potassium",
+        "sodium"
+      ],
+      "calories": 102,
+      "protein": 0.1,
+      "carbohydrates": 0.1,
+      "fiber": 0,
+      "sugar": 0.1,
+      "fat": 11.5,
+      "serving_size": "1 tablespoon",
+      "image": "butter.jpg",
+      "preparation_tips": "use as a spread or for cooking"
+    },
+    {
+      "id": "2",
+      "type": "Dairy",
+      "name": "Cheese",
+      "color": "yellow",
+      "vitamins": [
+        "A",
+        "B12",
+        "D"
+      ],
+      "minerals": [
+        "calcium",
+        "sodium",
+        "phosphorus"
+      ],
+      "calories": 113,
+      "protein": 7,
+      "carbohydrates": 0.4,
+      "fiber": 0,
+      "sugar": 0.4,
+      "fat": 9.4,
+      "serving_size": "1 ounce",
+      "image": "cheese.jpg",
+      "preparation_tips": "use for sandwiches, grilling, or snacking"
+    },
+    {
+      "id": "3",
+      "type": "Dairy",
+      "name": "Ghee",
+      "color": "yellow",
+      "vitamins": [
+        "A",
+        "D",
+        "E",
+        "K"
+      ],
+      "minerals": [
+        "calcium",
+        "potassium",
+        "sodium"
+      ],
+      "calories": 112,
+      "protein": 0,
+      "carbohydrates": 0,
+      "fiber": 0,
+      "sugar": 0,
+      "fat": 13,
+      "serving_size": "1 tablespoon",
+      "image": "ghee.jpg",
+      "preparation_tips": "use as a cooking fat or for spreading on bread"
+    },
+    {
+      "id": "4",
+      "type": "Dairy",
+      "name": "Milk",
+      "color": "white",
+      "vitamins": [
+        "A",
+        "D",
+        "B12"
+      ],
+      "minerals": [
+        "calcium",
+        "phosphorus"
+      ],
+      "calories": 103,
+      "protein": 3.4,
+      "carbohydrates": 12.2,
+      "fiber": 0,
+      "sugar": 12.2,
+      "fat": 2.4,
+      "serving_size": "1 cup",
+      "image": "milk.jpg",
+      "preparation_tips": "drink as is or use in cooking and baking"
+    },
+    {
+      "id": "5",
+      "name": "Yogurt",
+      "type": "Dairy",
+      "color": "white",
+      "vitamins": [
+        "B2",
+        "B5",
+        "B12",
+        "D"
+      ],
+      "minerals": [
+        "calcium",
+        "phosphorus",
+        "potassium",
+        "zinc"
+      ],
+      "calories": 149,
+      "protein": 8,
+      "carbohydrates": 11.4,
+      "fiber": 0,
+      "sugar": 11.4,
+      "fat": 8,
+      "serving_size": "1 cup",
+      "image": "yogurt.jpg",
+      "preparation_tips": "mix with fresh fruit or honey for flavor"
+    },
+    {
+      "id": "6",
+      "type": "Nuts",
+      "name": "Almonds",
+      "color": "brown",
+      "vitamins": [
+        "E",
+        "B2"
+      ],
+      "minerals": [
+        "magnesium",
+        "phosphorus"
+      ],
+      "calories": 161,
+      "protein": 6,
+      "carbohydrates": 6,
+      "fiber": 3.5,
+      "sugar": 1.2,
+      "fat": 14,
+      "serving_size": "1 ounce",
+      "image": "almonds.jpg",
+      "preparation_tips": "roast with spices or add to salads"
+    },
+    {
+      "id": "7",
+      "type": "Nuts",
+      "name": "Walnuts",
+      "color": "brown",
+      "vitamins": [
+        "E"
+      ],
+      "minerals": [
+        "copper",
+        "manganese"
+      ],
+      "calories": 185,
+      "protein": 4.3,
+      "carbohydrates": 3.9,
+      "fiber": 1.9,
+      "sugar": 0.7,
+      "fat": 18.5,
+      "serving_size": "1/4 cup",
+      "image": "walnuts.jpg",
+      "preparation_tips": "roast and sprinkle on salads or oatmeal"
+    },
+    {
+      "id": "8",
+      "type": "Nuts",
+      "name": "Cashews",
+      "color": "light brown",
+      "vitamins": [
+        "E",
+        "K"
+      ],
+      "minerals": [
+        "copper",
+        "magnesium",
+        "zinc"
+      ],
+      "calories": 157,
+      "protein": 5.2,
+      "carbohydrates": 8.6,
+      "fiber": 0.9,
+      "sugar": 1.7,
+      "fat": 12.4,
+      "serving_size": "1 ounce",
+      "image": "cashews.jpg",
+      "preparation_tips": "enjoy as a snack or use in stir-fries and salads"
+    },
+    {
+      "id": "9",
+      "type": "Nuts",
+      "name": "Brazil nuts",
+      "color": "brown",
+      "vitamins": [
+        "E"
+      ],
+      "minerals": [
+        "magnesium",
+        "selenium"
+      ],
+      "calories": 184,
+      "protein": 4.1,
+      "carbohydrates": 3.3,
+      "fiber": 2.1,
+      "sugar": 0.7,
+      "fat": 18.8,
+      "serving_size": "1 ounce",
+      "image": "brazilnuts.jpg",
+      "preparation_tips": "roast and eat as a snack or add to trail mix"
+    },
+    {
+      "id": "10",
+      "type": "Nuts",
+      "name": "Hazel nuts",
+      "color": "brown",
+      "vitamins": [
+        "E",
+        "B1",
+        "B2",
+        "B3",
+        "B5",
+        "B6"
+      ],
+      "minerals": [
+        "magnesium",
+        "phosphorus",
+        "potassium",
+        "zinc"
+      ],
+      "calories": 176,
+      "protein": 4.2,
+      "carbohydrates": 4.7,
+      "fiber": 2.8,
+      "sugar": 1.2,
+      "fat": 17,
+      "serving_size": "1 ounce (28 grams)",
+      "image": "hazelnuts.jpg",
+      "preparation_tips": "roast and sprinkle with salt for a snack"
+    },
+    {
+      "id": "11",
+      "type": "Nuts",
+      "name": "Peanuts",
+      "color": "brown",
+      "vitamins": [
+        "B3",
+        "B6",
+        "E"
+      ],
+      "minerals": [
+        "magnesium",
+        "phosphorus",
+        "zinc"
+      ],
+      "calories": 161,
+      "protein": 7.3,
+      "carbohydrates": 4.6,
+      "fiber": 2.4,
+      "sugar": 1.7,
+      "fat": 14,
+      "serving_size": "1 ounce",
+      "image": "peanuts.jpg",
+      "preparation_tips": "roast and serve as a snack, or use in peanut butter"
+    },
+    {
+      "id": "12",
+      "type": "Meat",
+      "name": "Fish",
+      "color": "Grey",
+      "vitamins": [
+        "B12",
+        "D"
+      ],
+      "minerals": [
+        "selenium",
+        "iodine"
+      ],
+      "calories": 206,
+      "protein": 22,
+      "carbohydrates": 0,
+      "fiber": 0,
+      "sugar": 0,
+      "fat": 13,
+      "serving_size": "3 ounces",
+      "image": "Fish.jpg",
+      "preparation_tips": "grill or bake with lemon and herbs"
+    },
+    {
+      "id": "13",
+      "type": "Meat",
+      "name": "Chicken",
+      "color": "white",
+      "vitamins": [
+        "B6",
+        "B12"
+      ],
+      "minerals": [
+        "iron",
+        "zinc"
+      ],
+      "calories": 239,
+      "protein": 27,
+      "carbohydrates": 0,
+      "fiber": 0,
+      "sugar": 0,
+      "fat": 14,
+      "serving_size": "3 ounces",
+      "image": "chicken.jpg",
+      "preparation_tips": "grill, bake, or sauté with your favorite seasonings"
+    },
+    {
+      "id": "14",
+      "type": "Meat",
+      "name": "Mutton",
+      "color": "red",
+      "vitamins": [
+        "B12"
+      ],
+      "minerals": [
+        "iron",
+        "zinc"
+      ],
+      "calories": 250,
+      "protein": 25,
+      "carbohydrates": 0,
+      "fiber": 0,
+      "sugar": 0,
+      "fat": 17,
+      "serving_size": "3 ounces",
+      "image": "mutton.jpg",
+      "preparation_tips": "roast, grill, or slow cook with herbs and spices"
+    },
+    {
+      "id": "15",
+      "type": "Meat",
+      "name": "Crab",
+      "color": "orange",
+      "vitamins": [
+        "B12",
+        "C"
+      ],
+      "minerals": [
+        "selenium",
+        "copper"
+      ],
+      "calories": 98,
+      "protein": 20,
+      "carbohydrates": 0,
+      "fiber": 0,
+      "sugar": 0,
+      "fat": 2,
+      "serving_size": "3 ounces",
+      "image": "crab.jpg",
+      "preparation_tips": "boil or steam and serve with melted butter or a creamy sauce"
+    },
+    {
+      "id": "16",
+      "type": "Meat",
+      "name": "Beef",
+      "color": "red",
+      "vitamins": [
+        "B6",
+        "B12"
+      ],
+      "minerals": [
+        "zinc",
+        "iron"
+      ],
+      "calories": 250,
+      "protein": 26,
+      "carbohydrates": 0,
+      "fiber": 0,
+      "sugar": 0,
+      "fat": 17,
+      "serving_size": "3 ounces",
+      "image": "beef.jpg",
+      "preparation_tips": "grill or roast with garlic and rosemary"
+    },
+    {
+      "id": "17",
+      "type": "vegetables",
+      "name": "Broccoli",
+      "color": "green",
+      "vitamins": [
+        "A",
+        "C",
+        "K"
+      ],
+      "minerals": [
+        "calcium",
+        "iron",
+        "potassium"
+      ],
+      "calories": 55,
+      "protein": 4.2,
+      "carbohydrates": 11.2,
+      "fiber": 5.1,
+      "sugar": 1.5,
+      "fat": 0.6,
+      "serving_size": "1 cup chopped",
+      "image": "broccoli.jpg",
+      "preparation_tips": "steam or sauté with garlic and lemon juice"
+    },
+    {
+      "id": "18",
+      "type": "vegetables",
+      "name": "Carrot",
+      "color": "orange",
+      "vitamins": [
+        "A",
+        "C",
+        "K"
+      ],
+      "minerals": [
+        "potassium",
+        "magnesium",
+        "iron"
+      ],
+      "calories": 52,
+      "protein": 1.2,
+      "carbohydrates": 12.3,
+      "fiber": 3.6,
+      "sugar": 6.1,
+      "fat": 0.3,
+      "serving_size": "1 cup chopped",
+      "image": "carrot.jpg",
+      "preparation_tips": "roast or steam with herbs and olive oil"
+    },
+    {
+      "id": "19",
+      "type": "vegetables",
+      "name": "Spinach",
+      "color": "green",
+      "vitamins": [
+        "A",
+        "C",
+        "K"
+      ],
+      "minerals": [
+        "iron",
+        "magnesium",
+        "potassium"
+      ],
+      "calories": 7,
+      "protein": 0.9,
+      "carbohydrates": 1.1,
+      "fiber": 0.7,
+      "sugar": 0.1,
+      "fat": 0.1,
+      "serving_size": "1 cup raw",
+      "image": "spinach.jpg",
+      "preparation_tips": "sauté with garlic and lemon juice"
+    },
+    {
+      "id": "20",
+      "type": "vegetables",
+      "name": "Tomatoes",
+      "color": "red",
+      "vitamins": [
+        "C",
+        "K"
+      ],
+      "minerals": [
+        "potassium"
+      ],
+      "calories": 22,
+      "protein": 1,
+      "carbohydrates": 5,
+      "fiber": 1.5,
+      "sugar": 3,
+      "fat": 0.2,
+      "serving_size": "1 medium",
+      "image": "tomato.jpg",
+      "preparation_tips": "chop and toss with basil and balsamic vinegar"
+    },
+    {
+      "id": "21",
+      "type": "vegetables",
+      "name": "Bell peppers",
+      "color": "red, yellow, green",
+      "vitamins": [
+        "A",
+        "C"
+      ],
+      "minerals": [
+        "potassium",
+        "magnesium"
+      ],
+      "calories": 24,
+      "protein": 1,
+      "carbohydrates": 6,
+      "fiber": 2,
+      "sugar": 3.5,
+      "fat": 0.3,
+      "serving_size": "1 medium",
+      "image": "bellpeppers.jpg",
+      "preparation_tips": "slice and stir-fry with onion and ginger"
+    },
+    {
+      "id": "22",
+      "type": "vegetables",
+      "name": "Sweet potatoes",
+      "color": "orange",
+      "vitamins": [
+        "A",
+        "C"
+      ],
+      "minerals": [
+        "potassium",
+        "magnesium"
+      ],
+      "calories": 103,
+      "protein": 2,
+      "carbohydrates": 24,
+      "fiber": 4,
+      "sugar": 7,
+      "fat": 0.2,
+      "serving_size": "1 medium",
+      "image": "sweetpotatoes.jpg",
+      "preparation_tips": "bake and top with cinnamon and maple syrup"
+    },
+    {
+      "id": "23",
+      "type": "vegetables",
+      "name": "Cucumbers",
+      "color": "green",
+      "vitamins": [
+        "C"
+      ],
+      "minerals": [
+        "potassium"
+      ],
+      "calories": 16,
+      "protein": 0.7,
+      "carbohydrates": 3.8,
+      "fiber": 0.5,
+      "sugar": 1.8,
+      "fat": 0.1,
+      "serving_size": "1/2 cup sliced",
+      "image": "Cucumbers.jpg",
+      "preparation_tips": "chop and mix with yogurt and dill for a dip"
+    },
+    {
+      "id": "24",
+      "type": "vegetables",
+      "name": "Beetroot",
+      "color": "dark red",
+      "vitamins": [
+        "C"
+      ],
+      "minerals": [
+        "iron",
+        "manganese",
+        "potassium"
+      ],
+      "calories": 44,
+      "protein": 1.6,
+      "carbohydrates": 10,
+      "fiber": 2.8,
+      "sugar": 7,
+      "fat": 0.2,
+      "serving_size": "1/2 cup sliced",
+      "image": "beetroot.jpg",
+      "preparation_tips": "roast or grate and add to salads"
+    },
+    {
+      "id": "25",
+      "type": "vegetables",
+      "name": "Mushrooms",
+      "color": "varies",
+      "vitamins": [
+        "D",
+        "B2",
+        "B3"
+      ],
+      "minerals": [
+        "potassium",
+        "copper",
+        "selenium"
+      ],
+      "calories": 21,
+      "protein": 3.1,
+      "carbohydrates": 3.3,
+      "fiber": 1,
+      "sugar": 1.4,
+      "fat": 0.3,
+      "serving_size": "1 cup sliced",
+      "image": "mushrooms.jpg",
+      "preparation_tips": "saute with garlic and herbs for a side dish"
+    },
+    {
+      "id": "26",
+      "type": "vegetables",
+      "name": "Radish",
+      "color": "red",
+      "vitamins": [
+        "C"
+      ],
+      "minerals": [
+        "potassium",
+        "folate"
+      ],
+      "calories": 19,
+      "protein": 0.8,
+      "carbohydrates": 4.1,
+      "fiber": 1.9,
+      "sugar": 2,
+      "fat": 0.1,
+      "serving_size": "1/2 cup sliced",
+      "image": "radish.jpg",
+      "preparation_tips": "slice thinly and add to salads for a spicy crunch"
+    },
+    {
+      "id": "27",
+      "type": "vegetables",
+      "name": "Apple",
+      "color": "red",
+      "vitamins": [
+        "C"
+      ],
+      "minerals": [
+        "potassium"
+      ],
+      "calories": 95,
+      "protein": 0.5,
+      "carbohydrates": 25,
+      "fiber": 4,
+      "sugar": 19,
+      "fat": 0.3,
+      "serving_size": "1 medium",
+      "image": "apple.jpg",
+      "preparation_tips": "slice and serve with peanut butter"
+    },
+    {
+      "id": "28",
+      "type": "fruits",
+      "name": "Orange",
+      "color": "orange",
+      "vitamins": [
+        "C"
+      ],
+      "minerals": [
+        "potassium"
+      ],
+      "calories": 62,
+      "protein": 1.2,
+      "carbohydrates": 15,
+      "fiber": 3.1,
+      "sugar": 12,
+      "fat": 0.2,
+      "serving_size": "1 medium",
+      "image": "orange.jpg",
+      "preparation_tips": "peel and eat, or slice and use in salads"
+    },
+    {
+      "id": "29",
+      "type": "fruits",
+      "name": "Banana",
+      "color": "yellow",
+      "vitamins": [
+        "B6",
+        "C"
+      ],
+      "minerals": [
+        "potassium"
+      ],
+      "calories": 105,
+      "protein": 1.3,
+      "carbohydrates": 27,
+      "fiber": 3.1,
+      "sugar": 14,
+      "fat": 0.4,
+      "serving_size": "1 medium",
+      "image": "Banana.jpg",
+      "preparation_tips": "peel and eat, or slice and use in smoothies"
+    },
+    {
+      "id": "30",
+      "type": "fruits",
+      "name": "Grape",
+      "color": "purple",
+      "vitamins": [
+        "C",
+        "K"
+      ],
+      "minerals": [
+        "potassium"
+      ],
+      "calories": 62,
+      "protein": 0.6,
+      "carbohydrates": 16.3,
+      "fiber": 0.8,
+      "sugar": 15.5,
+      "fat": 0.3,
+      "serving_size": "1 cup",
+      "image": "grape.jpg",
+      "preparation_tips": "wash and eat, or freeze for a refreshing snack"
+    },
+    {
+      "id": "31",
+      "type": "fruits",
+      "name": "Pineapple",
+      "color": "yellow",
+      "vitamins": [
+        "C"
+      ],
+      "minerals": [
+        "manganese"
+      ],
+      "calories": 82,
+      "protein": 0.9,
+      "carbohydrates": 21,
+      "fiber": 2.3,
+      "sugar": 16,
+      "fat": 0.2,
+      "serving_size": "1 cup chunks",
+      "image": "pineapple.jpg",
+      "preparation_tips": "slice and eat, or use in fruit salads and smoothies"
+    },
+    {
+      "id": "32",
+      "type": "fruits",
+      "name": "Kiwi",
+      "color": "brown",
+      "vitamins": [
+        "C",
+        "K"
+      ],
+      "minerals": [
+        "potassium"
+      ],
+      "calories": 61,
+      "protein": 1.1,
+      "carbohydrates": 15,
+      "fiber": 2.1,
+      "sugar": 9,
+      "fat": 0.5,
+      "serving_size": "1 medium",
+      "image": "kiwi.jpg",
+      "preparation_tips": "peel and slice, or use in fruit salads and smoothies"
+    },
+    {
+      "id": "33",
+      "type": "fruits",
+      "name": "Pomegranate",
+      "color": "red",
+      "vitamins": [
+        "C",
+        "K"
+      ],
+      "minerals": [
+        "potassium"
+      ],
+      "calories": 105,
+      "protein": 1.5,
+      "carbohydrates": 26.5,
+      "fiber": 4,
+      "sugar": 21,
+      "fat": 1,
+      "serving_size": "1 medium",
+      "image": "pomegranate.jpg",
+      "preparation_tips": "cut in half and scoop out seeds, or juice for a refreshing drink"
+    },
+    {
+      "id": "34",
+      "type": "fruits",
+      "name": "Muskmelon",
+      "color": "orange",
+      "vitamins": [
+        "A",
+        "C"
+      ],
+      "minerals": [
+        "potassium"
+      ],
+      "calories": 46,
+      "protein": 0.9,
+      "carbohydrates": 11.5,
+      "fiber": 0.9,
+      "sugar": 8.7,
+      "fat": 0.3,
+      "serving_size": "1 cup diced",
+      "image": "muskmelon.jpg",
+      "preparation_tips": "slice and serve, or blend into a refreshing smoothie"
+    },
+    {
+      "id": "35",
+      "type": "fruits",
+      "name": "Custard apple",
+      "color": "orange",
+      "vitamins": [
+        "A",
+        "C"
+      ],
+      "minerals": [
+        "potassium"
+      ],
+      "calories": 99,
+      "protein": 1.4,
+      "carbohydrates": 25,
+      "fiber": 2.6,
+      "sugar": 23,
+      "fat": 0.6,
+      "serving_size": "1 cup sliced",
+      "image": "custardapple.jpg",
+      "preparation_tips": "peel and slice, or use in fruit salads and smoothies"
+    },
+    {
+      "id": "36",
+      "type": "fruits",
+      "name": "Blueberries",
+      "color": "blue",
+      "vitamins": [
+        "C",
+        "K"
+      ],
+      "minerals": [
+        "manganese"
+      ],
+      "calories": 84,
+      "protein": 1.1,
+      "carbohydrates": 21,
+      "fiber": 3.6,
+      "sugar": 15,
+      "fat": 0.5,
+      "serving_size": "1 cup",
+      "image": "blueberries.jpg",
+      "preparation_tips": "wash and eat as a snack, or use in pancakes or smoothies"
+    },
+    {
+      "id": 37,
+      "type": "fruits",
+      "name": "Mango",
+      "color": "yello",
+      "vitamins": "A, B, D",
+      "minerals": "Magnesium, Potassium",
+      "calories": "190",
+      "protein": "25",
+      "carbohydrates": "25",
+      "fiber": "2",
+      "sugar": "15",
+      "fat": "2",
+      "serving_size": "1 medium size",
+      "image": "mango.jpg",
+      "preparation_tips": "Cut the mango along the seed and gently slice the flesh of each half in a criss-cross pattern, being careful not to cut through the skin. "
+    },
+    {
+      "id": 38,
+      "type": "Dairy",
+      "name": "Whipped Cream",
+      "color": "white",
+      "vitamins": "A, B3, C",
+      "minerals": "Potassium, magnesium",
+      "calories": "123",
+      "protein": "67",
+      "carbohydrates": "45",
+      "fiber": "5",
+      "sugar": "7",
+      "fat": "12",
+      "serving_size": "100 grams",
+      "image": "Whipped.jpg",
+      "preparation_tips": "Whipped cream is made by beating heavy cream until it becomes light and fluffy. It is commonly used as a topping for desserts and drinks."
+    },
+    {
+      "id": 39,
+      "type": "fruits",
+      "name": "Avacado",
+      "color": "Green",
+      "vitamins": [
+        "Vitamin A",
+        "Vitamin C"
+      ],
+      "minerals": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "calories": "70",
+      "protein": "34",
+      "carbohydrates": "23",
+      "fiber": "12",
+      "sugar": "0",
+      "fat": "8",
+      "serving_size": "1 medium size",
+      "image": "avacado.jpg",
+      "preparation_tips": " To prepare an avocado, cut it in half lengthwise, twist the two halves to separate them, remove the pit, and scoop out the flesh with a spoon."
+    }
+  ],
+  "Dietplans": [
+    {
+      "id": "1",
+      "name": "High-Protein Balanced Diet",
+      "age_group": "Adults",
+      "goal": "Muscle gain and weight management",
+      "breakfast": {
+        "menu": [
+          "Scrambled eggs with spinach and cheese",
+          "2 slices of whole grain toast",
+          "1 cup of unsweetened almond milk"
+        ],
+        "calories": 450
+      },
+      "lunch": {
+        "menu": [
+          "Grilled chicken breast with mixed veggies",
+          "Quinoa salad with avocado and cherry tomatoes",
+          "1 small apple"
+        ],
+        "calories": 550
+      },
+      "dinner": {
+        "menu": [
+          "Grilled salmon with roasted sweet potatoes",
+          "Green beans sautéed with garlic and lemon",
+          "1 small orange"
+        ],
+        "calories": 650
+      }
+    },
+    {
+      "id": "2",
+      "name": "Mediterranean Diet",
+      "age_group": "Adults",
+      "goal": "Heart health and weight loss",
+      "breakfast": {
+        "menu": [
+          "2 poached eggs with whole grain toast",
+          "Mixed fruit salad with kiwi, pineapple, and pomegranate",
+          "1 cup of green tea"
+        ],
+        "calories": 400
+      },
+      "lunch": {
+        "menu": [
+          "Greek salad with feta cheese, olives, and bell peppers",
+          "Grilled chicken skewers with tzatziki sauce",
+          "1 small orange"
+        ],
+        "calories": 500
+      },
+      "dinner": {
+        "menu": [
+          "Grilled fish with roasted vegetables",
+          "Hummus and whole wheat pita bread",
+          "1 small banana"
+        ],
+        "calories": 600
+      }
+    },
+    {
+      "id": "3",
+      "name": "Smoothie Bowl Diet",
+      "age_group": "Teens and adults",
+      "goal": "Weight loss and detoxification",
+      "breakfast": {
+        "menu": [
+          "Mixed berry smoothie bowl with chia seeds and almond milk",
+          "Sliced almonds and walnuts",
+          "1 cup of green tea"
+        ],
+        "calories": 400
+      },
+      "lunch": {
+        "menu": [
+          "Green smoothie bowl with spinach, banana, and avocado",
+          "Raw veggies with hummus",
+          "1 small apple"
+        ],
+        "calories": 500
+      },
+      "dinner": {
+        "menu": [
+          "Tropical smoothie bowl with mango, pineapple, and coconut milk",
+          "Mixed green salad with cucumber and cherry tomatoes",
+          "1 small orange"
+        ],
+        "calories": 600
+      }
+    },
+    {
+      "id": "4",
+      "name": "Nutrient-Dense Diet",
+      "age_group": "Adults and seniors",
+      "goal": "Overall health and disease prevention",
+      "breakfast": {
+        "menu": [
+          "Green smoothie with kale, spinach, and banana",
+          "Hard-boiled egg",
+          "1 cup of unsweetened almond milk"
+        ],
+        "calories": 350
+      },
+      "lunch": {
+        "menu": [
+          "Turkey and veggie wrap with whole grain tortilla",
+          "Side salad with mixed greens",
+          "1 small apple"
+        ],
+        "calories": 450
+      },
+      "dinner": {
+        "menu": [
+          "Baked salmon with roasted veggies",
+          "Quinoa pilaf with dried fruits and nuts",
+          "1 small orange"
+        ],
+        "calories": 550
+      }
+    },
+    {
+      "id": "5",
+      "name": "Seafood and Salad Diet",
+      "age_group": "Adults and seniors",
+      "goal": "Heart health and weight management",
+      "breakfast": {
+        "menu": [
+          "Smoked salmon and cream cheese on a bagel",
+          "1 cup of green tea"
+        ],
+        "calories": 400
+      },
+      "lunch": {
+        "menu": [
+          "Tuna salad with mixed greens and veggies",
+          "Whole grain crackers",
+          "1 small apple"
+        ],
+        "calories": 500
+      },
+      "dinner": {
+        "menu": [
+          "Grilled shrimp with mixed veggies",
+          "Side salad with balsamic dressing",
+          "1 small peach"
+        ],
+        "calories": 600
+      }
+    },
+    {
+      "id": "6",
+      "name": "Peanut Butter and Chicken Diet",
+      "age_group": "Adults",
+      "goal": "Muscle building and weight gain",
+      "breakfast": {
+        "menu": [
+          "Scrambled eggs with cheese and spinach",
+          "Whole grain toast with peanut butter",
+          "1 cup of milk",
+          "Banana"
+        ],
+        "calories": 600
+      },
+      "lunch": {
+        "menu": [
+          "Grilled chicken breast with quinoa and mixed veggies",
+          "Peanut butter and jelly sandwich",
+          "1 small serving of yogurt",
+          "Handful of grapes"
+        ],
+        "calories": 800
+      },
+      "dinner": {
+        "menu": [
+          "Stir-fried beef and broccoli with brown rice",
+          "Thai-style chicken satay with peanut sauce",
+          "Green salad with sliced almonds and mandarin oranges",
+          "1 small serving of fruit salad"
+        ],
+        "calories": 1000
+      }
+    },
+    {
+      "id": "7",
+      "name": "Beef and Broccoli Stir-Fry Diet",
+      "age_group": "Adults",
+      "goal": "Muscle building and weight loss",
+      "breakfast": {
+        "menu": [
+          "3 egg whites and 1 whole egg omelette with broccoli and cheese",
+          "1 slice of whole grain bread",
+          "1 cup of black coffee"
+        ],
+        "calories": 350
+      },
+      "lunch": {
+        "menu": [
+          "Beef and broccoli stir-fry with brown rice",
+          "Mixed green salad with cherry tomatoes and cucumber",
+          "1 small banana"
+        ],
+        "calories": 500
+      },
+      "dinner": {
+        "menu": [
+          "Grilled chicken breast with roasted broccoli and sweet potato",
+          "Mixed green salad with avocado and olive oil",
+          "1 small apple"
+        ],
+        "calories": 600
+      }
+    },
+    {
+      "id": "8",
+      "name": "Salad and Kebab Diet",
+      "age_group": "Adults",
+      "goal": "Weight loss and balanced nutrition",
+      "breakfast": {
+        "menu": [
+          "2 boiled eggs with sliced bell peppers and cucumber",
+          "1 slice of whole grain toast with avocado spread",
+          "1 cup of green tea"
+        ],
+        "calories": 400
+      },
+      "lunch": {
+        "menu": [
+          "Mixed kebab with chicken and beef skewers",
+          "Mixed green salad with cherry tomatoes and bell peppers",
+          "1 small orange"
+        ],
+        "calories": 500
+      },
+      "dinner": {
+        "menu": [
+          "Grilled fish with roasted sweet potato and mixed veggies",
+          "Mixed green salad with nuts and seeds",
+          "1 small apple"
+        ],
+        "calories": 600
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "Username": "admin",
+      "Password": "admin123",
+      "Email": "admin123@gmail.com",
+      "type": "admin"
+    },
+    {
+      "id": 2,
+      "Username": "vijay",
+      "Password": "868684",
+      "Email": "vijay123@gmail.com",
+      "type": "user"
+    },
+    {
+      "id": 3,
+      "Username": "dilli",
+      "Password": "123456",
+      "Email": "dilli@gmail.com",
+      "type": "user"
+    },
+    {
+      "id": 4,
+      "Username": "pragna",
+      "Password": "pg@123",
+      "Email": "pg123@gmail.com",
+      "type": "user"
+    },
+    {
+      "id": 5,
+      "Username": "varun",
+      "Password": "password.varun",
+      "Email": "varun234@gmail.com",
+      "type": "user"
+    },
+    {
+      "id": 6,
+      "Username": "madhan",
+      "Password": "868684",
+      "Email": "madhan123@gmail.com",
+      "type": "user"
+    },
+    {
+      "id": 7,
+      "Username": "madhan",
+      "Password": "868684",
+      "Email": "madhan@gmail.com",
+      "type": "user"
+    },
+    {
+      "id": 8,
+      "Username": "prem sai",
+      "Password": "asdfghjk",
+      "Email": "premsai@gmail.com",
+      "type": "user"
+    },
+    {
+      "id": 9,
+      "Username": "keerthana",
+      "Password": "zxcvbnm",
+      "Email": "keerthana@gmail.com",
+      "type": "user"
+    }
+  ]
+}

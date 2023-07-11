@@ -1,0 +1,52 @@
+<div class="back">
+    <div mat-dialog-content class="complaint-form">
+
+        <mat-form-field>
+          <input matInput placeholder="Firstname" [(ngModel)]="fname">
+          <mat-icon matSuffix>person</mat-icon>
+        </mat-form-field><br>
+    
+        <mat-form-field>
+          <input matInput placeholder="Lastname" [(ngModel)]="lname">
+          <mat-icon matSuffix>person</mat-icon>
+        </mat-form-field><br>
+    
+        <mat-form-field>
+            <input matInput placeholder="Email" [(ngModel)]="email">
+            <mat-icon matSuffix>mail</mat-icon>
+          </mat-form-field><br>
+    
+          <form class="example-form">
+            <mat-form-field class="example-full-width" appearance="fill">
+              <mat-label>Category</mat-label>
+              <mat-icon matSuffix>category</mat-icon>
+              <input type="text"
+                     placeholder="Pick one"
+                     aria-label="Number"
+                     matInput
+                     [formControl]="myControl"
+                     [matAutocomplete]="auto">
+              <mat-autocomplete #auto="matAutocomplete">
+                <mat-option *ngFor="let option of filteredOptions | async" [value]="option">
+                  {{option}}
+                </mat-option>
+              </mat-autocomplete>
+            </mat-form-field>
+          </form><br>
+          
+    
+          <mat-form-field class="message">
+            <input matInput placeholder="Message" [(ngModel)]="message">
+            <mat-icon matSuffix>comment</mat-icon>
+          </mat-form-field><br>
+    
+          <button mat-raised-button color="accent" (click)="submit()">Submit complaint</button>
+    </div>
+    <div class="alert-info" *ngIf="errors.length>0">
+      <h2>Warning !</h2>
+        <ul >
+            <li *ngFor="let x of errors">{{x}}</li>
+        </ul>
+    </div>
+
+</div>

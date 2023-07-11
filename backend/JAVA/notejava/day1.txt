@@ -1,0 +1,9 @@
+Object oriented programming structure
+1)object - placeholder
+instances-reference/memory address
+state-various,behaviour - function/methods ,identity
+
+2)class-templates
+3)Inheritance-create relation/structure
+4)polymorphsim-- many forms
+5)

@@ -1,0 +1,92 @@
+
+
+component?
+
+         Html [Template] -html
+		 CSS -css
+		[ event handling functions
+		 data ] -ts
+		 
+		 if you call another component
+		 
+		 <app-child><app-child>
+		 
+		 the component that is called is called child component
+		 
+		 each component has its own life cycle usually
+		 the lifecycle of child depends on parent life cycle
+
+    
+
+When ever you create a component?
+
+   <app-box></app-box>  - component creation
+   
+   an object of BoxComponent will be created
+   
+    <app-box></app-box>
+	 <app-box></app-box> - two objects of BoxComponent will be created
+	 
+object creation is called - [[instantiation]]
+
+in an object ? - data+ functions will be there
+
+   and  this data need to be attached with existing template
+   and interpolation need to happend and css need to be applied
+   and [[new template will be generated]]
+   
+   then the component is redered
+   
+   First [[Rendering is called as [[component initialization]]
+   
+   user might be interacting with the component as a result
+   events might occur
+   
+   because of the event functions in the object might run
+   
+   because of this component data might change
+   
+   because of this component need to re interpolated and rerendered
+   
+   this activity is called as [[[component update]]]
+
+   
+
+<h1> sample </h1>
+<p>
+
+dfldjfldjf
+
+</p>
+
+<app-box></app-box>
+
+
+
+Template
+
+      Current component template  - content
+	  Child and external component template - if attached to parent - view
+
+
+parent constructed
+child constructred
+parent initialized
+parent content initialized
+child initialized
+child content initialized
+child view initialized
+parent view initilized
+
+
+https://v2.angular.io/resources/images/devguide/lifecycle-hooks/hooks-in-sequence.png
+
+
+
+My explaination:- life-cycle of hook 
+
+the flow of the program like the root is created and the chlid receives the message from the parents in this flow any function is increpted and injected is 
+called  life-cycle of the hook
+
+the constracted is 
+

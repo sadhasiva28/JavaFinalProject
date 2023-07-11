@@ -1,0 +1,9 @@
+<div class="form">
+<mat-form-field class="input">
+    <mat-label>Comment</mat-label>
+    <input matInput #message maxlength="150" placeholder="Ex. Thanks for your response..." [(ngModel)]="response">
+    <mat-hint align="end">{{message.value.length}} / 150</mat-hint>
+  </mat-form-field><br>
+
+  <button mat-raised-button color="primary" (click)="adminResponse(response)">Submit</button>
+</div>

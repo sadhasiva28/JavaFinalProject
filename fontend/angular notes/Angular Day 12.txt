@@ -1,0 +1,67 @@
+https://github.com/vinodh1988/sterling-routing-app/blob/master/mypro.json
+
+ 
+
+1. install json: npm install -g json-server[need to do outside of project]
+2. check whether it is installed : json-server in cmd
+3. run in cmd: json-server --port 4500 mypro.json
+
+ 
+
+---to reuse the functions called into components is done using service----
+
+ 
+
+we import the data from rest api in data flow format:
+
+ 
+
+Data flow: api call --> service --> parent component --> child component
+
+................................................................................
+First creating the contact services
+-->for the working of Http client we import the Http client module without the 
+http client module the http client will not work 
+-->by using of http client we can 
+1)get
+2)post
+....etc
+--->after getting the output the observable :-it's like promise method
+in the RXJS 
+-->THE observable works similar to the promise method
+-->but observable can get results from the function n times
+-->you can subscribe to the observable
+-->in promise method whether success or reject like in observable next or error
+--->in promise method we using the function called then for calling the method like wise
+we call as in observable as subcribe
+..................................................................
+dependency injection
+
+dependecy:-changing one class it will impact other class is called as dependecy
+ex:-class A- m1
+    class B -m2
+    class A2-m1
+class c- main
+your project 
+class c -main{
+//creating object for m1 in class 
+A obj=newA()
+   obj.m1
+}
+
+ex:- feature 1-->A
+feature 2-->B
+feature 2-->A2
+class A- m1
+    class B -m2
+    class A2-m1
+class c- main
+your project 
+class c -main{
+//creating object for m1 in class 
+feature1 obj=newA()
+   obj.m1
+}
+here importing the framework of the components
+if the version is changes it won't fill the code , it automatically
+correct the code by import the object calling from another

@@ -1,0 +1,14 @@
+In the spring boot project(Maven project) which is coonected by the the database and herbirnate 
+
+the project is have many packages and the classes and interfaces 
+
+to create the project i should have the main method that is implementation part 
+
+1)Main part
+2)Config--it is based on the security propers and implementation and in this swagger also involves
+3)controller-- in this function all involves in this controller like (addpatient,adddoctor, addpointment etc...)
+4)entity-- Is to create the how many character Like based on the project the characters is involves in this particular class getter and setter and constractors table creation etc..
+5)Exception--this exceptions is whether is should be print or others it throws the exception
+6)repository--
+7)services--In services two is there class and interface 
+  ->in class it implements the interface

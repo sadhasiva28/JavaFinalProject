@@ -1,0 +1,51 @@
+<div class="details">
+    <h1>{{details.name}}</h1>
+
+    <div class="image">
+        <img src="http://localhost/{{product.image}}" />
+    </div>
+    <div>
+        <h1>Price:{{details.price}}$</h1>
+    </div>
+</div>
+<div class="down">
+    <h2>Description:</h2>
+
+    <p *ngFor="let x of details.description">
+        {{x}}
+    </p>
+    <h2>Reviews:</h2>
+    <p *ngFor="let x of details.review">
+        {{x}}
+
+    </p>
+    <app-reviews [thisid]="id"></app-reviews>
+
+<div><br>
+
+
+
+  
+    <div class="rform">
+        <h3>Fill your feedback</h3>
+        <form  [formGroup]="productForm"  (submit)="savedetails()">
+               <table>
+                       <th>Reviews</th>
+                       <td><textarea rows=6 cols=50 formControlName="message">
+                           </textarea></td>
+                       <td>
+                              <div *ngIf='productForm.controls.message.hasError("required")'>
+                                      Should be filled</div>
+                            <div *ngIf='productForm.controls.message.hasError("minlength")'>
+                                        Atleast 15 characters long</div>
+                       </td>
+                   <tr><td colspan="3" style="text-align:center">
+                          <button type="submit"  class="btn btn-primary" [disabled]="!productForm.valid">
+                                     Post Feedback</button>
+                      </td>
+                    </tr>
+               </table>
+          
+          
+          </form>
+      </div>

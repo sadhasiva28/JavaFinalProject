@@ -1,0 +1,48 @@
+.service-box{
+    float: left;
+    width: 300px;
+    height: 300px;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 5px gray;
+    margin: 50px;
+    border:so;
+}
+.image-holder{
+    height: 80%;
+    width: 100%;
+}
+.image-holder img{
+    height: 100%;
+    width: 100%;
+}
+.text{
+    height: 20%;
+    text-align: center;
+    background-color: rgb(183, 108, 108);
+    text-shadow: 3px 3px 3px gray;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    padding-top: 15px;
+    box-sizing: border-box;
+
+}
+.name{
+    height: 20%;
+    text-align: center;
+    background-color: rgb(180, 166, 166);
+    text-shadow: 3px 3px 3px gray;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    padding-top: 15px;
+    box-sizing: border-box;
+}
+.h{
+    font-size: 10px;
+    text-align: right;
+    margin-bottom: auto;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}

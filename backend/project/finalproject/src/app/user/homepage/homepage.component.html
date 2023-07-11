@@ -1,0 +1,6 @@
+<select [(ngModel)]="selected" class="category">
+  <option *ngFor="let y of types"> {{y}} </option>
+</select><br>
+<div id="items">
+    <app-product *ngFor="let x of products | typefilter:selected" [product]="x"></app-product>
+</div>

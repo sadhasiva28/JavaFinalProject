@@ -1,0 +1,63 @@
+                                         JAVA PROGRAMMING LANGUAGE
+DAILY TASKS:-
+
+Date:22/05/2023
+Task:-create a class with anyname with 2 varibale, 2 method 2 instance and access all the variables and methos using both instance
+
+Date:23/05/2023
+Task:-for sample project we have to print the sal(salary)--- in output
+
+Date:24/05/2023
+Task:- Implement the interface extends the interface
+
+Date:25/05/2023
+Task:- In the EMS, implement serialization and deserialization as case 3 and case 4 respectively in swtich case .
+
+Date:26/05/2023
+Task:- In the EMs, implement the Thread sleep at the time of login(it should print like loading.......)
+
+Date:29/05/2023
+Task:- In the EMs,implement the predicate,consumer.
+
+Date:30/05/2023
+Task:-Try the scope of abstract class, local and instance variable of the inner class as given the file.
+
+Date:31/05/2023
+Task:-update  dedaemp set ename=? where empno=?,delete from dedemp where empno=?
+
+Date:01/06/2023
+Task:-In the EMS, add no:8 in the switch case as(sort the employee details based on the Comparator,comparable).
+
+Date:02/06/2023
+Task:-In drive oracle folder there is sql questions open that complete all 50 question with queries and upload in github.
+
+Date:-05/06/2023
+Task:-Create the following tables with data.Products, Customers, Orders and OrderDetails.
+
+Date:-06/06/2023
+Task:-Try with multiple row subquery operators while framing multiple column subquery(instead of in try all operator).
+
+Date:-07/06/2023
+Task:-In the EMS,implement the singletone.
+
+Date:-08/06/2023
+Task:-Get the examples of factorydesign pattern.
+
+Date:-09/06/2023
+Task:-implement the program for the state using traffic lights(Behaviuorpattrn).
+
+Date:12/06/2023
+Task:-Run EMS in cmd prompt with memeory flags enabled and gc enabled. Take a screen shot of the executed application and post the screen shotcreate a folder with your name in c drive and have your jars inside it.
+
+Date:-13/06/2023
+Task:-Ensure that Maven is available both windows and eclipse and update screenshot in github.
+
+Date:-14/06/2023
+Task:-Understand the flow of maven when string application (create similar project and update in github).
+
+Date:-15/06/2023
+Task:-1)In the myspr project introduce one more variable in the car class it is integer(car number) and it has the getter and setters.
+      2)In the ems project, MyDbConnection create the three variables(link,system,password)and create another class call all and connect the url,system name ,password(not in ems separate).
+
+Date:-16/06/2023
+Task:-Implement hybernate(myfirsthiber) totaly.

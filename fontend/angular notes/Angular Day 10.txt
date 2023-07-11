@@ -1,0 +1,8 @@
+parent child communication
+
+Sending Data from parent to child - [Preferrable]
+Sending Data from child to parent - [Not recommended]
+                              [Dont do unless really necassary]
+
+
+Sending data from parent to child

@@ -1,0 +1,7 @@
+Form Handling 
+         Template based approach
+-no inbuilt validation
+-no logical grouping of fields
+-no additional help from the frame work
+
+only ngmodel helps in handling 

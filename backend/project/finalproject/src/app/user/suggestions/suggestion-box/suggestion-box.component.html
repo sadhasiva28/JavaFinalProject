@@ -1,0 +1,14 @@
+<mat-card class="card">
+    <mat-card-header class="card-header">
+       <mat-icon>face</mat-icon>
+       <p>{{suggestions.name}}</p>
+       <p class="date">Created at: {{suggestions.created_at}}</p>
+    </mat-card-header>
+    <mat-card-content class="card-body">
+        <p class="suggestion">Suggestion:</p>
+        <p>{{suggestions.description}}</p>
+    </mat-card-content>
+    <mat-card-footer class="card-footer">
+        <button mat-raised-button color="primary" routerLink="/admin_response/{{suggestions.id}}">View</button><br>
+    </mat-card-footer>
+</mat-card>

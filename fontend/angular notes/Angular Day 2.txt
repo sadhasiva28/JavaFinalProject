@@ -1,0 +1,29 @@
+python:-OOP
+FUNCTIONAL Programing 
+multi paradigm programing language
+---------------------------------------
+Javascript:-OOP
+FUNCTIONAL Programming 
+multi paradigm programming language
+----------------------------------------
+android:
+to develop applications using SDK
+[native development: using own softwares of platform]
+
+ 
+
+native language:   for andriod: now(kotlin) , previous(java)
+                   for IOS: now(swift) , previous(objective C)
+-----------------------------------------------------------
+we not specify the data types in programing languge if it is compiling...
+Javascript:
+-doesnt contain concept of datatypes
+
+-------------------------------------------------------
+1.create a button on the screen
+[the button can created using
+1.button tag
+2.anchor tag
+3.div  ]
+note:pleasing look and feel is expected
+2.when you click the button a pop up window need to appear 

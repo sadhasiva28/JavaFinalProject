@@ -1,0 +1,49 @@
+.back{
+    background-color: #007bff;
+}
+:host {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: #f2f2f2;
+    color: #333333;
+  }
+  
+  .complaint-form {
+    position: absolute;
+    top: 50%;  
+    left: 50%;
+    transform: translate(-50%, -30%);
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .message {
+    margin: 0%;
+    padding: 0%;
+    height: 200px;
+  }
+  
+  button {
+    margin-left: 45px;
+    background-color: #609168;
+    color: #ffffff;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .alert-info {
+    position: absolute;
+    left: 65%;
+    top: 50%;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 20px;
+    border-style: ridge;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  

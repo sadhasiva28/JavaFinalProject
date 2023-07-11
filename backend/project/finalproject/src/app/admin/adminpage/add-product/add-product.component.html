@@ -1,0 +1,13 @@
+<div class="fields">
+<mat-form-field appearance="outline">
+    <mat-label>Search</mat-label>
+    <input matInput [(ngModel)]="selected">
+  </mat-form-field>
+  <button mat-raised-button color="primary" (click)="openDialog()">Add product</button><br>
+</div>
+
+  <mat-card *ngFor="let x of Allproducts | search: selected" class="product">
+    <img src="http://localhost/{{x.image}}">
+    <p>{{x.name}}</p>
+  </mat-card>
+  

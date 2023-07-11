@@ -1,0 +1,26 @@
+<div class="header">
+  <button mat-icon-button class="menu" class="icon" [matMenuTriggerFor]="menu">
+    <mat-icon>person</mat-icon>
+  </button>
+  <mat-menu #menu="matMenu">
+    <a mat-menu-item>
+      <span>View Response</span>
+    </a>
+  </mat-menu>
+<div class="example-form">
+    <mat-form-field class="example-full-width">
+      <mat-label>Question</mat-label>
+      <input matInput #message maxlength="50" placeholder="Ex. I need help with..." [(ngModel)]="question">
+      <mat-hint align="end">{{message.value.length}} / 50</mat-hint>
+    </mat-form-field>
+  </div>
+<button mat-raised-button color="primary" (click)="saveQuestion()"  [disabled]="!question">Submit</button>
+</div>
+
+
+
+
+<h2>User Questions</h2>
+<div class="questions">
+  <app-forum-box *ngFor="let x of forumlist" [Forum]="x"></app-forum-box>
+</div>

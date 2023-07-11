@@ -1,0 +1,54 @@
+it will not connect angular with database
+backend it will gives data to the angular
+SPA
+client side[only]-[BROWER,DESKTOP,MOBILE]
+
+no server side
+No connection with database directly
+
+in 2015 the angular is came
+angular is differnt and 
+angularJS is different 
+
+---------------------
+multipages applications
+
+-html
+-css and 
+-javascript
+
+W3C-world wide web consortium
+for html\css not for javascript
+
+javascript is a language
+----------------------------
+HTML:-5 --came at 2015
+CSS:-3---came at 2015
+
+
+responsive design :-layout to the lap,moblie
+
+media Queries in css used for the responsive design
+
+--------------------------------
+multipage application 
+exampples.....
+-----------
+javascript
+
+Dynamic
+
+things that cannot done 
+standand
+ECMA-european computer manufactures association
+
+2015-es6,es2015->es2023
+
+typescript will not run in browser
+java also wiil not run in browser 
+--------------------------------
+javascript will not run only in browser 
+it can run nodejs
+nodeJS it can runs javascript elements
+
+we need NODE JS for angular development

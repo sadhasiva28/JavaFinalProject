@@ -1,0 +1,17 @@
+.card{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 500px;
+    min-height: 50px;
+    max-height: 300px;
+    padding: 20px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.icon{
+    margin-left: 48%;
+    margin-top: 10%;
+    width: 200px;
+}

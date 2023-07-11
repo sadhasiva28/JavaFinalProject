@@ -1,0 +1,26 @@
+<h1>{{Forum.question}}</h1>
+<section class="toggle">
+    <mat-button-toggle-group aria-label="Font Style">
+      <mat-button-toggle value="user_response" (click)="user()" class="toggle_name" >User Responses</mat-button-toggle>
+      <mat-button-toggle value="add_response" (click)="own()" class="toggle_name" >Add Responses</mat-button-toggle>
+    </mat-button-toggle-group>
+</section>
+<div class="fields">
+    <div *ngIf="user_response==true">
+        <div *ngFor="let x of Forum.responses" class="bar">
+            <mat-icon class="icon">person</mat-icon>
+            <mat-card class="response">
+              {{x}}
+            </mat-card>
+        </div>
+    </div>
+    <div *ngIf="add_response==true">
+            <mat-form-field class="example-full-width">
+                <mat-label>Response</mat-label>
+                <input matInput #message maxlength="50" placeholder="Ex. I would like to suggest.." [(ngModel)]="selected">
+                <mat-hint align="end">{{message.value.length}} / 50</mat-hint>
+              </mat-form-field>
+
+              <button mat-raised-button color="primary" (click)="addResponse(selected)" [disabled]="!selected">Submit</button>
+    </div>
+</div>

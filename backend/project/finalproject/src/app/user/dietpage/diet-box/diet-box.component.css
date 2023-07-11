@@ -1,0 +1,19 @@
+.card{
+    float: left;
+    width: 250px;
+    height: 150px;
+    margin: 20px;
+    margin-left: 35px;
+    background-color:#1a6072;
+}
+.text{
+    margin: 40px;
+    text-align: center;
+    font-size: 18px;
+    font: bolder;
+    color: white;
+}
+a{
+    cursor: pointer;
+}
+

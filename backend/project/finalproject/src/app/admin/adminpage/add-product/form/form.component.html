@@ -1,0 +1,96 @@
+<div mat-dialog-content class="complaint-form">
+
+    <mat-form-field>
+      <input matInput placeholder="Product name" [(ngModel)]="name">
+    </mat-form-field><br>
+
+    <mat-form-field>
+      <input matInput placeholder="Colour" [(ngModel)]="color">
+    </mat-form-field><br>
+
+    <mat-form-field>
+      <input matInput placeholder="Image" [(ngModel)]="image">
+    </mat-form-field><br>
+
+    <mat-form-field>
+      <input matInput placeholder="Serving size" [(ngModel)]="serving_size">
+    </mat-form-field><br>
+
+    <mat-form-field>
+      <input matInput placeholder="Carbohydrates" [(ngModel)]="carbohydrates">
+    </mat-form-field><br>
+
+    <!-- <mat-form-field>
+      <input matInput placeholder="Vitamins" [(ngModel)]="vitamins">
+    </mat-form-field><br> -->
+    <mat-form-field appearance="fill">
+      <mat-label>Vitamins</mat-label>
+      <mat-select [formControl]="selectedVitamins" multiple>
+        <mat-select-trigger>
+          {{selectedVitamins.value?.[0] || ''}}
+          <span *ngIf="(selectedVitamins.value?.length || 0) > 1" class="example-additional-selection">
+            (+{{(selectedVitamins.value?.length || 0) - 1}} {{selectedVitamins.value?.length === 2 ? 'other' : 'others'}})
+          </span>
+        </mat-select-trigger>
+        <mat-option *ngFor="let vitamin of vitaminList" [value]="vitamin">{{vitamin}}</mat-option>
+      </mat-select>
+    </mat-form-field><br>
+
+    <mat-form-field appearance="fill">
+      <mat-label>Minerals</mat-label>
+      <mat-select [formControl]="toppings" multiple>
+        <mat-select-trigger>
+          {{toppings.value?.[0] || ''}}
+          <span *ngIf="(toppings.value?.length || 0) > 1" class="example-additional-selection">
+            (+{{(toppings.value?.length || 0) - 1}} {{toppings.value?.length === 2 ? 'other' : 'others'}})
+          </span>
+        </mat-select-trigger>
+        <mat-option *ngFor="let topping of toppingList" [value]="topping">{{topping}}</mat-option>
+      </mat-select>
+    </mat-form-field><br>
+
+    <mat-form-field>
+      <input matInput placeholder="Fiber" [(ngModel)]="fiber">
+    </mat-form-field><br>
+
+    <mat-form-field>
+      <input matInput placeholder="Sugar" [(ngModel)]="sugar">
+    </mat-form-field><br>
+
+    <mat-form-field>
+      <input matInput placeholder="Fat" [(ngModel)]="fat">
+    </mat-form-field><br>
+
+    <mat-form-field appearance="fill">
+      <mat-label>Category</mat-label>
+      <mat-select [(ngModel)]="type" disableRipple>
+        <mat-option value="vegetables">Vegetables</mat-option>
+        <mat-option value="fruits">Fruits</mat-option>
+        <mat-option value="Meat">Meat</mat-option>
+        <mat-option value="Dairy">Dairy</mat-option>
+        <mat-option value="Nuts">Nuts</mat-option>
+      </mat-select>
+    </mat-form-field><br>
+
+    <mat-form-field>
+      <input matInput placeholder="Calories" [(ngModel)]="calories">
+    </mat-form-field><br>
+
+    <mat-form-field>
+      <input matInput placeholder="Proteins" [(ngModel)]="proteins">
+    </mat-form-field><br>
+
+    <mat-form-field class="message">
+      <textarea matInput placeholder="Preparation tips" [(ngModel)]="preparation_tips"></textarea>
+    </mat-form-field><br>
+    
+    <button mat-raised-button color="accent"(click)="submit()">Add product</button>
+</div>
+
+<div class="alert-info" *ngIf="errors.length>0">
+  <h2>Warning !</h2>
+    <ul>
+        <li *ngFor="let x of errors">{{x}}</li>
+    </ul>
+</div>
+

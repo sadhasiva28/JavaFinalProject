@@ -1,0 +1,7 @@
+It is a MUlti page application
+if the url is getting resolved in the server --->server side routing
+
+It is a Single page application
+if the url is getting resolved in the client --->client side routing
+
+

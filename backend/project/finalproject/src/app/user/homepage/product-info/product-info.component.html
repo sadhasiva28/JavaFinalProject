@@ -1,0 +1,45 @@
+<mat-card class="image-card">
+     <img class="picture" mat-card-image src="http://localhost/{{productdata.image}}">
+</mat-card>
+<p>{{productdata.name}}</p>
+
+
+<table class="nutrition-card">
+    <tr>
+      <th>Nutrition Information</th>
+      <th>Amount per Serving</th>
+    </tr>
+    <tr>
+      <td>Serving Size</td>
+      <td>{{productdata.serving_size}}</td>
+    </tr>
+    <tr>
+      <td>Carbohydrates</td>
+      <td>{{productdata.carbohydrates}}%</td>
+    </tr>
+    <tr>
+      <td>Vitamins</td>
+      <td>{{productdata.vitamins}}</td>
+    </tr>
+    <tr>
+      <td>Minerals</td>
+      <td>{{productdata.minerals}}</td>
+    </tr>
+    <tr>
+      <td>Fiber</td>
+      <td>{{productdata.fiber}}%</td>
+    </tr>
+    <tr>
+      <td>Sugar</td>
+      <td>{{productdata.sugar}}%</td>
+    </tr>
+    <tr>
+      <td>Fat</td>
+      <td>{{productdata.fat}}%</td>
+    </tr>
+    <tr>
+      <td>Calories</td>
+      <td>{{productdata.calories}}</td>
+    </tr>
+  </table>
+  

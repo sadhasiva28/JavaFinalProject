@@ -1,0 +1,38 @@
+stream is the path 
+
+source and destination
+-memory 
+-the exception
+
+serialization
+
+is the read the data 
+de-serialization
+is the write the data
+
+this is single thrad
+thread is indepndent nature 
+it have its own space 
+never the run method using instants
+
+multi thread
+synchronized is should be called
+it synchronized will  not allow the other to print
+
+
+functional interface:
+sam(single abstract method)
+lamda experssion 
+they are 6 ,method
+new Threads 
+
+
+streams
+the collection of the method pipeline
+
+source --collection,array
+destination--collection,variable
+
+
+
+-->sequential stream,parallel

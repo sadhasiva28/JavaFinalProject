@@ -1,0 +1,54 @@
+Pipes is an angular feature 
+   
+   that is usually used in the template within the interpolation
+   expression
+
+   it is applied on a target variable which is either scalar
+   or a collection
+
+   angular offers inbuilt pipes that can be applied on scalar variables
+   only
+
+   for applying on arrays you need to define your own pipes
+
+   Generally
+   
+   pipe if applied on scalar target it formats the target
+
+   {{name | uppercase }} - converts the name into uppercase
+   {{price | currency:'USD'}} - prints price as $350.00 if price is 350
+
+   in the aboves cases you could see a pipe expression has three parts
+
+   1. target variable
+   2. pipe name
+   3. parameters [optional
+   
+   pipe if applied on array target usually it filters the target
+   , we have to define our own pipe to apply on arrays
+
+
+
+ regex>>>>>>>>>>>>>>>>>
+
+   strings = [ "Raj","Ram","Harish", "Jhon","jhon","Jon","Rick",
+"1245","Harry123","James1245","Joseph","sameul@gmail","arjun_324@gmail.com",
+"naresh@gmail.com","kiran1234@gmail.com","233@gmail.com","peterson@hotmail",
+"star124","@4243","24524","32535","jug","mug","99","21","pat@hotmail.us"]
+//*  means zero or more occurances
+//+ one of more occurances
+//var regex =  /^R/
+//var regex = /^R..$/
+//var regex = /[kmr]$/
+//var regex=/^[a-z][a-z][a-z]$/
+//var regex=/^[0-9][0-9]+[0-9]$/
+//var regex=/^[0-9][0-9]*[0-9]$/
+//var regex=/^[Jj](ho|oh|o)n$/
+var regex = /^[a-z][a-z_\.0-9]{3,}@[a-z]{3,20}[\.](com|net|in)$/
+
+for(let x of strings)
+{
+	if(regex.test(x))
+		console.log(x)
+}
+

@@ -1,0 +1,24 @@
+.card{
+    margin: 40px 70px 40px 340px;
+    width: 600px;
+    min-height: 150px;
+    max-height: 400px;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+.footer{
+    text-align: right;
+}
+.header{
+    display: flex;
+}
+.dot{
+    margin-left: auto;
+}
+.name{
+    margin-top: 10px;
+}
+.body{
+    font-style: italic;
+}

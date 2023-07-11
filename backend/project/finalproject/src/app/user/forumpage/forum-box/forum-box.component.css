@@ -1,0 +1,27 @@
+a {
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 20px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transition: color 0.2s ease-in-out;
+  }
+  
+  a:hover {
+    color: #3f51b5;
+    text-decoration: underline;
+  }
+  
+  a:focus {
+    outline: none;
+  }
+  
+  a:active {
+    color: #7986cb;
+  }
+  
+  a.disabled {
+    cursor: not-allowed;
+    color: #bdbdbd;
+  }
+  

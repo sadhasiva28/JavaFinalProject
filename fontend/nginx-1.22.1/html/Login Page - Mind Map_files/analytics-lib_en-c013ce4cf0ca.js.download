@@ -1,0 +1,3 @@
+'use strict';window.pgView=function(){try{var a=window._paq=window._paq||[];a.push(["requireConsent"]);a.push(["trackPageView"]);a.push(["enableLinkTracking"]);a.push(["setTrackerUrl","https://www.mindomo.com/analytics/log"]);a.push(["setSiteId","5"]);let c=window.EXMOD?window.EXMOD.module:void 0,b=c?c("Session"):void 0,e=b&&b.userSettings?b.userSettings.userId||b.userSettings.get("userId"):window.ExInit?window.ExInit.userId:void 0;e&&a.push(["setUserId",e]);a=document;let d=a.createElement("script"),
+f=a.getElementsByTagName("script")[0];d.async=!0;d.src="https://www.mindomo.com/analytics/measure.js";f.parentNode.insertBefore(d,f)}catch(c){}};
+;

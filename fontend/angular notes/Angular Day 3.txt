@@ -1,0 +1,18 @@
+git-is a local area repository
+GITHUB is a central area repository
+In local repository if u created in will not store inthe local repository
+the file is untracted 
+next is the staged to the github
+after that the commit to the github now the store the local repository
+the local repository is a register remote the repository[orgin]
+the git remote add origin to the URL
+now the the local repositor is to add by system connect 
+
+
+
+------------------------------------------------------
+task:-create a javascript code that runs every two seconds that changes 
+image src in html page such that it would create a slide show of image 
+every 2 seconds
+
+Download an image which is a gif

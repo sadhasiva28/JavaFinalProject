@@ -1,0 +1,65 @@
+they are 1)multi page application and single page application
+1)Multi page application they are separate pages for the html,css,javascript
+in the multi pages old development the page should like mini ex:the each line should be calculated for the bytes so that they will do the combine the 
+all code into the package like 
+
+
+
+...................................................
+modern client side development
+development lastest version
+if u use the 
+1)html 5
+2)css- SASS,LESS,SCSS
+3)js- jsX,tsx,ts  :-for the version es2022
+ex:- if u are using the 5 year old laptop it won't support the lastet version for html 5 
+the developer what's to now at last upload the code in the same version which in lap version
+
+------------------------------------------------
+developer activites
+1)unit testing
+2)unit-unit testing 
+3)accepatance testing
+4) coverting ts to js
+5) converting scss,less to css
+6) run a development server(node js based)
+7)listing (checking the quallity of the code
+
+---------------------------------------------------------
+Bundling 
+
+first we compile ts to js -> TYPESCRIPT COMPILER 
+
+we start with a main index js file and link with all the files, functions that are used, skip the filess and functions that are never called/used
+and usaully pack all those js files into one or few files - bundling tool
+
+Bundling tool-webpack
+[100's of the files -> one or few js files
+
+--------------------------------------------------------------------
+Angular CLI(command language interface)
+ it is tool to create angular application 
+1)generate angular
+2)build angular
+3)test angular
+4)run angular app during developer
+5)list your api
+6)pack you angular app
+
+.......................................................
+Angular 
+while creating a angular the module what's
+inthe ->components
+->pipes
+->directions
+->services
+->routing configuration
+module is nothing but collection of angular 
+it are also the band of frame works
+-------------------------------------------------------
+Component: a small part of unit/feature in a SPA
+Component containes:
+- Data(for handling we use TS objects)          [  combining data and events we use encapsulation     ]
+- Events(for handling we use TS functions)      [          it is done in single class                 ]
+- HTMl(template)                                       
+- style(css)

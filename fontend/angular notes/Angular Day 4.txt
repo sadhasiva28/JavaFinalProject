@@ -1,0 +1,3 @@
+program execution styles
+1.blocking ---
+2.non blocking

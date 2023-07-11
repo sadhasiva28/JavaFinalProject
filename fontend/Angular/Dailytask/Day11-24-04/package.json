@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "MI note 11T 5G",
+      "price": 999.99,
+      "image": "phone.jpg",
+      "type": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "L'Oreal Paris Mascara",
+      "price": 9.99,
+      "image": "mascara.jpg",
+      "type": "Cosmetics"
+    },
+    {
+      "id": 3,
+      "name": "Organic Apples",
+      "price": 2.99,
+      "image": "apples.jpg",
+      "type": "Groceries"
+    },
+    {
+      "id": 4,
+      "name": "To Kill a Mockingbird",
+      "price": 12.99,
+      "image": "mockingbird.jpg",
+      "type": "Books"
+    },
+    {
+      "id": 5,
+      "name": "Sony PlayStation 5",
+      "price": 499.99,
+      "image": "sony.jpg",
+      "type": "Electronics"
+    },
+    {
+      "id": 6,
+      "name": "Maybelline New York Foundation",
+      "price": 14.99,
+      "image": "newyork.jpg",
+      "type": "Cosmetics"
+    },
+    {
+      "id": 7,
+      "name": "Fresh Broccoli",
+      "price": 1.99,
+      "image": "broccoli.jpg",
+      "type": "Groceries"
+    },
+    {
+      "id": 8,
+      "name": "The Great Gatsby",
+      "price": 8.99,
+      "image": "gatsby.jpg",
+      "type": "Books"
+    },
+    {
+      "id": 9,
+      "name": "Samsung Galaxy Watch 4",
+      "price": 349.99,
+      "image": "samsung.jpg",
+      "type": "Electronics"
+    },
+    {
+      "id": 10,
+      "name": "MAC Blush",
+      "price": 19.99,
+      "image": "blush.jpg",
+      "type": "Cosmetics"
+    }
+  ],
+  "details": [
+    {
+      "id": 1,
+      "name": "Product A",
+      "price": 10.99,
+      "description": [ "This is a description of Product A.", "This product G has the price 10.99" ],
+      "review": []
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "price": 24.99,
+      "description": [ "This is a description of Product B.", "This product B has the price 24.99" ]
+      "review": []
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "price": 15.49,
+      "description": [ "This is a description of Product C.", "This product C has the price 15.49" ]
+      "review": []
+    },
+    {
+      "id": 4,
+      "name": "Product D",
+      "price": 7.99,
+      "description": [ "This is a description of Product D.", "This product D has the price 7.99" ]
+      "review": []
+    },
+    {
+      "id": 5,
+      "name": "Product E",
+      "price": 19.99,
+      "description": [ "This is a description of Product E.", "This product E has the price 19.99" ]
+      "review": []
+    },
+    {
+      "id": 6,
+      "name": "Product F",
+      "price": 12.49,
+      "description": [ "This is a description of Product F.", "This product F has the price 12.49" ]
+      "review": []
+    },
+    {
+      "id": 7,
+      "name": "Product G",
+      "price": 8.99,
+      "description": [ "This is a description of Product G.", "This product G has the price 8.99" ],
+      "review": []
+    },
+    {
+      "id": 8,
+      "name": "Product H",
+      "price": 21.99,
+      "description": ["This is a description of Product H.","This product H has the price 21.99"
+  ],
+      "review": []
+    },
+    {
+      "id": 9,
+      "name": "Product I",
+      "price": 5.99,
+      "description": [ "This is a description of Product I.", "This product I has the price 5.99" ]
+      "review": []
+    },
+    {
+      "id": 10,
+      "name": "Product J",
+      "price": 13.99,
+      "description": [ "This is a description of Product J.", "This product J has the price 13.99" ]
+      "review": []
+    }
+  ]
+
+}

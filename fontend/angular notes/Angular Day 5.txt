@@ -1,0 +1,8 @@
+1.Download and install postman and understand what postman does
+2.there are lot of free open api avaliable through out internet 
+explore some free rest apis (ex: whether api,currency exachanges api,general info apis ,govt apis,
+....)
+
+
+3.Access those apis using postman perform GET,POST,PUT..... method operatons 
+and take screen shots and paste in word make a pdf upload it in your respository.

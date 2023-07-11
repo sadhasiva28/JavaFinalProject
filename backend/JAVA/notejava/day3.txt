@@ -1,0 +1,27 @@
+the parent class is sub class of the child
+like example:
+singlar is a interface
+plular is a class
+interface eextends 
+---------------------------------------
+in the samplepro 
+the parent is employee 
+and the child is manager
+
+we can create the separate objects for each of the class
+we can access the all manager in employee 
+like this Employee ng=new Manager(); it is true
+
+here the instanceof if else condition is applied
+--------------------------------------
+here the static entities will be loaded to memory only once
+-->static entities are the first entity to be loaded
+
+-->to invoke static entities,we dont require an object
+
+abstraction:-
+the abstract is the hide the internal progress and it's shows the useful to the user
+in this we can use the abstrat method for the following class
+-------------------------------------------------
+java is not a framework it is a api
+it used for the pre-defined 

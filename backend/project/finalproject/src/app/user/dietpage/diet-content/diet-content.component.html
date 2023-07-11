@@ -1,0 +1,44 @@
+
+<mat-card class="card">
+  <div class="meal-box">
+    <h2>Breakfast:</h2>
+    <mat-card-content>
+      <div *ngFor="let item of product.breakfast.menu">
+        <li>{{ item }}</li>
+      </div>
+    </mat-card-content>
+  </div>
+
+  <div class="meal-box">
+    <h2>Lunch:</h2>
+    <mat-card-content>
+      <div *ngFor="let item of product.lunch.menu">
+        <li>{{ item }}</li>
+      </div>
+    </mat-card-content>
+  </div>
+
+  <div class="meal-box">
+    <h2>Dinner:</h2>
+    <mat-card-content>
+      <div *ngFor="let item of product.dinner.menu">
+        <li>{{ item }}</li>
+      </div>
+    </mat-card-content>
+  </div>
+</mat-card>
+
+<div class="info">
+<mat-card-header>
+  <mat-card-title>{{product.name}}</mat-card-title>
+</mat-card-header>
+
+<mat-card-content>
+  Age Group: {{product.age_group}}<br>
+  Goal:  {{product.goal}}
+</mat-card-content>
+
+<mat-card-content class="calories">
+  Total calories: {{product.breakfast.calories + product.lunch.calories + product.lunch.calories}}
+</mat-card-content>
+</div>

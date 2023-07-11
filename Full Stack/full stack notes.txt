@@ -1,0 +1,43 @@
+Full Stack Development 
+
+
+SPRING BOOT PROJECT
+first create the string application project from the spring (spring initializr io) add maven etc,
+--download and open in the eclipse
+--open resources and connect to the database so the what data give in the spring boot in will goes into the database
+--Know create the package like main method and contoller,entities(model),repository,if needed exceptions
+--In the model package what are the involves character we need to defined and create the getter and setter methods etc...
+--Main think is remove or commit the src/test/java if not u will get the error for this 
+--The connection between the spring boot project and angulalr u want to add this lines in the controller 
+--@CrossOrigin(origins = "http://localhost:4200")
+@RestController
+@RequestMapping("/api/v1/")
+--this is the localhost linked to the spring boot and the angular application 
+--In the api is empty we can post the data by using postman and set the data and get the data
+--It well reflect in the oracle sql also
+--In controller multiple action is to be done example:- sort,edit or update ,delete ,view ect, done in the controller
+
+
+ANGULAR APPLICATION 
+First create the angular project with what the name we want and do npm install bootstrap
+and add this line in the index.html
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" 
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+                        or
+add this line in style.css
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+--so,that i will integrate the bootstrap in the angular connection.
+--The connect between the components it should be proper and it should work (router)
+--This is i have created the employee-list for that i have created the service and connected both with the localhost link
+--
+
+
+
+CONNECTION SPRING BOOT AND ANGULAR:
+--In the spring boot controller important is adding the
+@CrossOrigin(origins = "http://localhost:4200")-- it should what localhost u are runing the application this is important
+@RestController-- this like manditory for the controller 
+@RequestMapping("/api/v1/")--This is like getting the data from the server it may be the api or json server etc.. it should be mention.
+--While runing the angular application the backend should run the application mean while orcale or mysql to check the data whether storing are not
+--

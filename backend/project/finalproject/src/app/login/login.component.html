@@ -1,0 +1,82 @@
+<div class="bg" style="background-image: url('http://localhost/bgwallpaper.jpg')"> 
+    <div class="quote">
+        <p>Fuel your body with the nutrients it deserves..</p><br>
+        <p> log in and start your journey to a healthier you!</p>
+        </div>
+<mat-button-toggle-group class="toggle" aria-label="Font Style">
+    <mat-button-toggle value="signin" class="toggle-button"(click)="login()">Sign In</mat-button-toggle>
+    <mat-button-toggle value="signup" class="toggle-button" (click)="register()">Sign Up</mat-button-toggle>
+</mat-button-toggle-group>
+
+<mat-card class="login-card">
+  <div class="form-page" *ngIf="signin==true">
+    <form  [formGroup]="UserLoginForm"  (submit)="checkUser()">
+      <mat-card-header>
+        <div mat-card-avatar class="example-header-image"></div>
+        <mat-card-title class="header">Login Form</mat-card-title>
+      </mat-card-header>
+
+      <mat-form-field appearance="fill" class="fields">
+        <input matInput placeholder="Username" formControlName="name">
+      </mat-form-field>
+
+      <mat-form-field appearance="fill" class="fields">
+        <input matInput placeholder="Password" formControlName="password" [type]="hidePassword ? 'password' : 'text'">
+        <button mat-icon-button matSuffix (click)="hidePassword = !hidePassword" aria-label="Toggle password visibility">
+          <mat-icon>{{ hidePassword ? 'visibility_off' : 'visibility' }}</mat-icon>
+        </button>
+      </mat-form-field>
+      
+      <mat-card-actions class="button1">
+        <button mat-raised-button color="primary" type="submit" >Login</button>
+      </mat-card-actions>
+      </form>
+      <div class="warnings">
+        <p *ngIf="UserLoginForm.controls.name.hasError('required') ||
+        UserLoginForm.controls.password.hasError('required')">
+        *Please fill out all required fields
+        </p>
+      </div>
+  </div>
+
+
+  <div class="rform" *ngIf="signup==true">
+    <form  [formGroup]="UserLoginForm"  (submit)="saveUser()">
+      <mat-card-header>
+        <div mat-card-avatar class="example-header-image"></div>
+        <mat-card-title class="header">Registration Form</mat-card-title>
+      </mat-card-header>
+
+      <mat-form-field appearance="fill" class="fields">
+        <input matInput placeholder="Username" formControlName="name">
+      </mat-form-field>
+
+      <mat-form-field appearance="fill" class="fields">
+        <input matInput placeholder="Email" formControlName="email">
+      </mat-form-field>
+
+      <mat-form-field appearance="fill" class="fields">
+        <input matInput placeholder="Password" formControlName="password">
+        <button mat-icon-button matSuffix (click)="hidePassword = !hidePassword" aria-label="Toggle password visibility">
+          <mat-icon>{{ hidePassword ? 'visibility_off' : 'visibility' }}</mat-icon>
+        </button>
+      </mat-form-field>
+
+      <mat-card-actions class="button2">
+        <button mat-raised-button color="primary" type="submit" [disabled]="UserLoginForm.invalid" >Register</button>
+      </mat-card-actions>
+
+      <div class="warnings">
+        <p *ngIf="UserLoginForm.controls.name.hasError('required') ||
+           UserLoginForm.controls.email.hasError('required') ||
+           UserLoginForm.controls.password.hasError('required')">
+           *Please fill out all required fields
+        </p>
+      <p *ngIf='UserLoginForm.controls.name.hasError("minlength")'>*Atleast Three Characters</p>
+      <p *ngIf='UserLoginForm.controls.email.hasError("pattern")'>*Email need to in valid format</p>
+      <p *ngIf='UserLoginForm.controls.password.hasError("minlength")'>*Atleast six Characters</p>
+      </div>
+</form>
+
+
+
